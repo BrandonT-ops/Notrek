@@ -1,0 +1,44 @@
+.btnContainer{
+    display: flex;
+    justify-content: center;
+    flex-flow: row;
+    width: 100%;
+   
+}
+.startPrice{
+    border: 2px solid #0074FF;
+    background-color: white;
+    color:#0074FF;
+    padding: 3px;
+    font-size: 16px;
+    border-radius: 20px;
+    width: fit-content;
+    height: fit-content;
+}
+.availableBtn{
+    border: 3px solid #0074FF;
+    background-color: white;
+    color:#0074FF;
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 30px;
+    width: fit-content;
+    height: fit-content;
+   
+    cursor:pointer;
+}
+.btnNegotiate{
+    border: 1px solid #0074FF;
+    background-color: #0074FF;
+    color:white;
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 20px;
+    width: fit-content;
+    height: fit-content;
+   
+    cursor:pointer;
+}
+.myJournListCard{
+    border:3px solid #0074FF;border-radius:30px;
+}
